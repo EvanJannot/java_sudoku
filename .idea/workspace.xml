@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ec5df8b-fb05-4a93-8aa7-3a9837853da9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sudoku/SudokuApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/userinterface/IUserInterfaceContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/userinterface/SudokuTextField.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_sudoku.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_sudoku.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sudoku/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +17,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="package-info" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -63,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672486274506</updated>
-      <workItem from="1672486275915" duration="2079000" />
+      <workItem from="1672486275915" duration="2753000" />
     </task>
     <servers />
   </component>
