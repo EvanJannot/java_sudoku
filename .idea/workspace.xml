@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ec5df8b-fb05-4a93-8aa7-3a9837853da9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sudoku/constants/GameState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/constants/Messages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/constants/Rows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/SudokuApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_sudoku.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_sudoku.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +20,8 @@
       <list>
         <option value="Interface" />
         <option value="package-info" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -43,11 +43,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Program Files/Java/jdk-11.0.16.1/lib/javafx-sdk-11.0.2/lib",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.5609195",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -59,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672486274506</updated>
-      <workItem from="1672486275915" duration="1096000" />
+      <workItem from="1672486275915" duration="2079000" />
     </task>
     <servers />
   </component>
