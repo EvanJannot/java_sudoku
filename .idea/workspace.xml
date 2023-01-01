@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="1ec5df8b-fb05-4a93-8aa7-3a9837853da9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/computationlogic/GameLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/computationlogic/GameLogic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sudoku/computationlogic/SudokuSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/computationlogic/SudokuSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/problemdomain/SudokuGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/problemdomain/SudokuGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/userinterface/logic/ControlLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/userinterface/logic/ControlLogic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +110,7 @@
       <updated>1672486274506</updated>
       <workItem from="1672486275915" duration="3349000" />
       <workItem from="1672507005425" duration="6024000" />
-      <workItem from="1672571121679" duration="9724000" />
+      <workItem from="1672571121679" duration="10902000" />
     </task>
     <servers />
   </component>
