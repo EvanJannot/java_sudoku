@@ -107,8 +107,8 @@ public class UserInterfaceImpl implements IUserInterfaceContract.View, EventHand
 
         final int xAndYDelta = 64;
 
-        for (int xIndex = 0; xIndex < 9; xIndex++){
-            for (int yIndex = 0; yIndex < 9; yIndex++){
+        for (int xIndex = 0; xIndex < SudokuGame.GRID_BOUNDARY; xIndex++){
+            for (int yIndex = 0; yIndex < SudokuGame.GRID_BOUNDARY; yIndex++){
                 int x = xOrigin + xIndex * xAndYDelta;
                 int y = yOrigin + yIndex * xAndYDelta;
 
@@ -185,8 +185,8 @@ public class UserInterfaceImpl implements IUserInterfaceContract.View, EventHand
 
     @Override
     public void updateBoard(SudokuGame game) {
-        for (int xIndex = 0; xIndex < 9; xIndex ++) {
-            for (int yIndex = 0; yIndex < 9; yIndex ++) {
+        for (int xIndex = 0; xIndex < SudokuGame.GRID_BOUNDARY; xIndex ++) {
+            for (int yIndex = 0; yIndex < SudokuGame.GRID_BOUNDARY; yIndex ++) {
                 TextField tile = textFieldCoordinates.get(new Coordinates(xIndex, yIndex));
 
                 String value = Integer.toString(
