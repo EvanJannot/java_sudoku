@@ -33,9 +33,9 @@ public class GameLogic {
     }
 
     private static boolean rowsAreInvalid(int[][] grid) {
-        for (int yIndex = 0; yIndex <= GRID_BOUNDARY; yIndex++) {
+        for (int yIndex = 0; yIndex < GRID_BOUNDARY; yIndex++) {
             List<Integer> row = new ArrayList<>();
-            for (int xIndex = 0; xIndex <= GRID_BOUNDARY; xIndex++) {
+            for (int xIndex = 0; xIndex < GRID_BOUNDARY; xIndex++) {
                 row.add(grid[xIndex][yIndex]);
             }
 
@@ -46,9 +46,9 @@ public class GameLogic {
     }
 
     private static boolean columnsAreInvalid(int[][] grid) {
-        for (int xIndex = 0; xIndex <= GRID_BOUNDARY; xIndex++) {
+        for (int xIndex = 0; xIndex < GRID_BOUNDARY; xIndex++) {
             List<Integer> row = new ArrayList<>();
-            for (int yIndex = 0; yIndex <= GRID_BOUNDARY; yIndex++) {
+            for (int yIndex = 0; yIndex < GRID_BOUNDARY; yIndex++) {
                 row.add(grid[xIndex][yIndex]);
             }
 
